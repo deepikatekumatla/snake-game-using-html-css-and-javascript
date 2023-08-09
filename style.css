@@ -1,0 +1,27 @@
+#container{
+   
+    background-color: black;
+   margin-left: 5%;
+   background-color: rgb(68, 68, 2);
+ 
+}
+body{
+    background-image: url(images/desktop-1440x900.jpg);
+    
+}
+h1{
+   font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(6, 73, 6);
+    text-align: center;
+}
+.score{
+
+    font-size: 40px;
+    width: 200px;
+    height: 100px;
+    float: right;
+    padding-right: 20%;
+    color: white;
+}
+
